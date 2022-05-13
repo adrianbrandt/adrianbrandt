@@ -6,9 +6,9 @@
 
 Welcome to my github page where i post most of my projects!
 
-This site is a work in progress, where i have deleted alot of Repositories that i am no longer wokring on.
-I am planning on posting more work from my studies, and some private time projects i have made during my code sessions.
+This site is a work in progress, where i have deleted alot of Repositories that i am no longer working on.
+I am planning on posting more work from my studies, and some private time projects i have made during my coding sessions.
 
-Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in so i can see how my code is being used!
-PS! Repositories tagged with "-Assignement" is tasks where my school has posted some code and the assignement wanted us to find workarounds.
+Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in, so i can see how my code is being used!
+PS! Repositories tagged with "---Assignement" is tasks where my school has posted pseudo code where we had to find the best solutions for the task we were provided.
 With this said i cannot take credit for all the work done in the marked Repositories.
