@@ -3,6 +3,7 @@
 - 🌱 I’m currently taking my Bachelor's degree in Design and development of IT Systems.
 - 💞️ I’m looking to collaborate on new projects, i would love to be able to improve my skills and i am always eager to learn something new!
 - 📫 You can reach me on my email @ a.sleire.b@gmail.com or contact me on linkedin @ adrian-brandt-b02217237
+- :point_right: Check out my Portifolio! - https://brandtsolution.com/Portifolios/Adrian/
 
 Welcome to my github page where i post most of my projects!
 
