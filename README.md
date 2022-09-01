@@ -5,13 +5,13 @@
 - 📫 You can reach me on my email @ a.sleire.b@gmail.com or contact me on linkedin @ https://www.linkedin.com/in/adrian-s-brandt/
 - :point_right: Check out my Portifolio! - https://brandtsolution.com/Portifolios/Adrian/
 
-Welcome to my github page where i post most of my projects!
+Welcome to my github page where i post most of my projects!<br />
 
-This site is a work in progress, where i have deleted alot of Repositories that i am no longer working on.
-I am planning on posting more work from my studies, and some private time projects i have made during my coding sessions.
+This site is a work in progress, where i have deleted alot of Repositories that i am no longer working on.<br />
+I am planning on posting more work from my studies, and some private time projects i have made during my coding sessions.<br />
 
-Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in, so i can see how my code is being used!
-PS!
+Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in, so i can see how my code is being used!<br />
+<br />PS!<br />
 Repositories tagged with "---Assignement" is tasks where my school has posted pseudo code where we had to find the best solutions for the task we were provided.
-With this said i cannot take credit for all the work done in the marked Repositories.
+With this said i cannot take credit for all the work done in the marked Repositories.<br />
 Repositories tagged with "---Work" is code i have used to solve tasks as a developer at Telia.
