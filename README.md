@@ -10,4 +10,3 @@ This site is a work in progress, where i have deleted alot of Repositories that 
 I am planning on posting more work from my studies, and some private time projects i have made during my coding sessions.<br />
 
 Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in, so i can see how my code is being used!<br />
-![image title](https://rushter.com/counter.svg)
