@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, Web/software development and Robotics.
 - 💞️ I’m looking to collaborate on new projects, i would love to be able to improve my skills and i am always eager to learn something new!
 - 📫 You can reach me on my email @ a.sleire.b@gmail.com or contact me on linkedin @ https://www.linkedin.com/in/adrian-s-brandt/
-- :point_right: Check out my Portifolio! - https://brandtsolution.com/Portifolios/Adrian/
+- :point_right: Check out my Portifolio! - https://brandtstack.com
 
 Welcome to my github page where i post most of my projects!<br />
 
