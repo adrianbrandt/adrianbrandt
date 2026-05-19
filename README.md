@@ -1,12 +1,13 @@
-- 👋 Hello, I’m @adrianbrandt.
-- 👀 I’m interested in computer science, Web/software development and Robotics.
-- 💞️ I’m looking to collaborate on new projects, i would love to be able to improve my skills and i am always eager to learn something new!
-- 📫 You can reach me on my email @ a.sleire.b@gmail.com or contact me on linkedin @ https://www.linkedin.com/in/adrian-s-brandt/
-- :point_right: Check out my Portifolio! - https://brandtstack.com
+## Adrian Brandt
 
-Welcome to my github page where i post most of my projects!<br />
+  Fullstack developer based in Sarpsborg/Oslo, Norway. Currently building web solutions and digital products at **Eika**.
+   I work across the full stack — frontend, backend, infrastructure, and automation.
 
-This site is a work in progress, where i have deleted alot of Repositories that i am no longer working on.<br />
-I am planning on posting more work from my studies, and some private time projects i have made during my coding sessions.<br />
+  Most of my personal projects are deployed on a self-hosted VPS using Docker and CapRover.
 
-Feel free to use my work in any situation. Would appreciate if i was included or tagged in projects my work is used in, so i can see how my code is being used!<br />
+  Most production projects are kept private — publicly exposing the source code of live sites introduces unnecessary
+  security risk.
+
+  **Stack I reach for:** TypeScript · React · Next.js · Node.js · Docker · PostgreSQL · Sanity CMS
+
+  I work closely with AI tools (Claude Code, GitHub Copilot) as part of my day-to-day workflow.
