@@ -15,4 +15,5 @@
   ---
 
   📎 **Portfolio:** [brandtstack.com](https://brandtstack.com)
+  
   💼 **LinkedIn:** [adrian-s-brandt](https://www.linkedin.com/in/adrian-s-brandt/)
