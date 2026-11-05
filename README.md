@@ -31,7 +31,9 @@ My own sign-in service, so the apps share one account. Passkeys, invite only. Wr
 **Internal tooling** · Private<br>
 Per-app access control, an operations tool for the servers, CI runners on my own hardware, email authentication monitoring, link and traffic tracking, and a private analytics dashboard. Mostly Go, all behind a login.
 
-**In the open:** [`brandtstack/workspace-ci`](https://github.com/brandtstack/workspace-ci), the reusable CI workflows and Renovate preset my repos build with.
+**In the open**<br>
+[**tabcheck**](https://github.com/brandtstack/tabcheck) · Does your favicon actually show up on a browser tab? A CLI that checks an SVG icon on real light and dark tabs in Chromium, fails CI when the mark disappears, and exports the whole icon set.<br>
+[`workspace-ci`](https://github.com/brandtstack/workspace-ci) · The reusable CI workflows and Renovate preset my repos build with.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-how-dark.svg"><img src="assets/h-how-light.svg" height="34" alt="How I work"></picture>
 
