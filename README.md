@@ -9,19 +9,17 @@ Everything runs on servers I set up and run myself, and CI runs on my own hardwa
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img src="assets/h-work-light.svg" height="34" alt="Selected work"></picture>
 
-<img src="assets/lamp.svg" width="12" height="12" alt="In service"> **[Åsane Zoo](https://aasanezoo.com)** · Client work · since 2025<br>
+**[Åsane Zoo](https://aasanezoo.com)** · Client work · since 2025<br>
 The website of a pet store in Bergen, with booking for dog washing and carpet cleaner rental. The staff also have timesheets. The shop needs the site working during opening hours, and I’m the one who answers for it.
 
-<img src="assets/lamp.svg" width="12" height="12" alt="In service"> **[Buvik Borettslag](https://brlbuvik.no)** · Website and board tools · since 2026<br>
+**[Buvik Borettslag](https://brlbuvik.no)** · Website and board tools · since 2026<br>
 The public site has house rules, bylaws and board news in Norwegian, English and Polish. In a separate board app, the board publishes news, lends out equipment and keeps track of contractors.
 
-<img src="assets/lamp.svg" width="12" height="12" alt="In service"> **[Tilde](https://tilde.brandtstack.com)** · PWA · since 2026<br>
+**[Tilde](https://tilde.brandtstack.com)** · PWA · since 2026<br>
 Counts down to and up from the days that matter. Installable, works offline and needs no account. I made it as a free alternative to a paid app.
 
-<img src="assets/lamp.svg" width="12" height="12" alt="In service"> **Tend** · Household app · since 2026<br>
+**Tend** · Household app · since 2026<br>
 A household app with its own API, built for two. Chores earn points, routines send push reminders, and the shopping list updates live on both phones. It’s in use at home but not open to others, so it isn’t linked.
-
-<sub>The amber lamp means it is in service right now.</sub>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-backstage-dark.svg"><img src="assets/h-backstage-light.svg" height="34" alt="Backstage"></picture>
 

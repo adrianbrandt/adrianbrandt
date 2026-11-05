@@ -3,7 +3,7 @@
 // Text is converted to outlines because GitHub serves SVGs through <img>, where
 // no web font loads. Colours and type follow brandtstack's DESIGN.md: one dawn
 // (night for dark theme, day for light), condensed caps for plot lettering,
-// amber only for "in service" and the contact action.
+// amber only for the contact action.
 //
 //   npm run build            -> writes assets/*.svg
 //   npm run build -- --org   -> also writes the org profile's assets to ../brandtstack-github/profile/assets
@@ -307,7 +307,6 @@ for (const th of themes) {
     for (const [id, label] of Object.entries(headings)) profile.push([`h-${id}-${th}.svg`, heading(th, label)]);
     profile.push([`pipeline-${th}.svg`, pipeline(th)]);
 }
-profile.push(['lamp.svg', lamp()]);
 profile.push(['contact.svg', contactAction('SEND ME AN EMAIL')]);
 out(join(root, 'assets'), profile);
 
